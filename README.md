@@ -1,15 +1,4 @@
----
-# WARNING!
-
-Use of this library is strongly discouraged, as many of the tests are now broken.
-
-If you are looking for a simple, well tested gem for API auth, let me recommend [Knock](https://github.com/nsarno/knock)
-
----
-
 # Pillowfort
-
-[![Build Status](https://travis-ci.org/coroutine/pillowfort.svg?branch=master)](https://travis-ci.org/coroutine/pillowfort)
 
 Pillowfort is a opinionated, no bullshit, session-less authentication engine for Rails APIs. If you want a lot of configurability, get the fuck out. If you want lightweight, zero-config authentication for your API, you've come to the right place.
 
